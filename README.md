@@ -1,4 +1,4 @@
-- 👋 Oá, Sou @powrrless,
+- 👋 Olá, Sou @powrrless,
 - 👀 Estou estudando sobre automação de atividades secretariais,
 - 🌱 Para iniciar, estou aprendendo a linguagem Python,
 - 💞️ Espero conseguir melhorar os processos do setor que sou colaborador,
